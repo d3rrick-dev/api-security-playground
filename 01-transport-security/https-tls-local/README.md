@@ -2,7 +2,7 @@
 
 ## 1. Simple TLS
 ### Installations
-- N.B I'm using a mac
+- N.B linux/unix
 ```bash
 brew install mkcert
 
