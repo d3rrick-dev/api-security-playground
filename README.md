@@ -1,5 +1,6 @@
 I'm following this template.
 
+```mermaid
 api-security-playground/
 ├── README.md
 ├── common/
@@ -33,3 +34,4 @@ api-security-playground/
     ├── replay-attack/
     ├── token-theft/
     └── privilege-escalation/
+```
