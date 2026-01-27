@@ -1,6 +1,6 @@
 I'm following this template.
 
-```mermaid
+```text
 api-security-playground/
 ├── README.md
 ├── common/
