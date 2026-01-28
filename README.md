@@ -3,9 +3,6 @@ I'm following this template.
 ```text
 api-security-playground/
 ├── README.md
-├── common/
-│   ├── vulnerable-api/
-│   └── hardened-api/
 ├── 01-transport-security/
 │   └── https-tls-local/
 ├── 02-authentication/
