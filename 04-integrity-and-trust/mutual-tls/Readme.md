@@ -17,10 +17,11 @@ Example usecases:
 - B2B transactions
 
 ### Implementing mTLS
-#### Testing
-TODO
-
-
+#### Sample projects
+- [spring-mtls-example](https://github.com/indrabasak/spring-mtls-example)
+- [spring-boot-mutual-tls](https://github.com/pwalser75/spring-boot-mutual-tls)
+- [Mutual-TLS](https://github.com/refactorizando-web/Mutual-TLS)
+- [simple-https-server](https://github.com/locksec/simple-https-server) --> python
 ### Rotating mTLS Certificates with Zero Downtime
 •	Overlapping certs - Do not expire old cert until new cert is fully deployed
 •	Truststore update - Add new CA to truststore before deploying new certs
